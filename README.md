@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Random BS text here beacuse the video said it didn't matter.
+1. index.html
 
-Addind more BS Ipsum text here for the same reason.
